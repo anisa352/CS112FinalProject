@@ -1,0 +1,7 @@
+Alkaid|10.0|40.0|It is one of the hottest stars that can be seen without binoculars and has a surface temperature of 20,000 kelvins
+Mizar|20.0|32.0|It is a system composed of two binary stars and was the first double star ever to be photographed
+Alioth|35.0|38.0|It is the brightest star in Ursa Major and 31th brightest star in the night sky
+Megrez|55.0|45.0|It is 14 times more luminous than the sun and has 63% more mass
+Phecda|65.0|70.0|It's estimated age is 300 million years
+Merak|80.0|48.0|It is 2.7 times more massive than the sun and about 68 times more luminous
+Dubhe|75.0|20.0|It is the second brightest star in Ursa Major and 123 light year distant from the solar system
